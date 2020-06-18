@@ -16,3 +16,5 @@ BI|基因进化模型的统计推论法，通过后验概率直观反映出各�
 |最大简约法(MP)	|Phylip/Paup*/MEGA	|fasta/phy|
 |贝叶斯法	|MrBayes/PhyloSuite|	nexus|
 |溯祖法	|BEAST系列软件	|nexus|
+
+转载自https://www.yuque.com/wusheng/gw7a9p/kmcp00
